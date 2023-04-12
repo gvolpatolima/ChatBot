@@ -1,7 +1,7 @@
 # Installation
 
     Clone the repository: git clone https://github.com/gvolpatolima/ChatBot.git
-    Navigate to the project directory: cd chatbot-ai
+    Navigate to the project directory: cd ChatBot
     Install dependencies: pip install -r requirements.txt
     You might need to download nltk-data aswell
 
