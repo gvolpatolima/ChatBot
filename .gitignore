@@ -6,5 +6,5 @@
 *.pyc
 /chatbot/__pycache__/
 /chatbot/local_settings.py
-/chatbot/db.sqlite3
+chatbot/db.sqlite3
 /chatbot/media

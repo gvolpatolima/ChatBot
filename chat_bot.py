@@ -52,8 +52,9 @@ def get_response(intents_list, intents_json):
 
 print("all ready")
 
-while True:
-    message = input("")
+def chat(message):
     ints = predict_class(message)
     res = get_response(ints, intents)
     print(res)
+
+chat("hi")
