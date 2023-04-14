@@ -1,5 +1,4 @@
 /words.pkl
-/chatbot_model.h5
 /classes.pkl
 *.log
 *.pot
@@ -8,3 +7,5 @@
 /chatbot/local_settings.py
 chatbot/db.sqlite3
 /chatbot/media
+/venv
+/.idea
