@@ -1,11 +1,4 @@
 /words.pkl
 /classes.pkl
-*.log
-*.pot
-*.pyc
-/chatbot/__pycache__/
-/chatbot/local_settings.py
-chatbot/db.sqlite3
-/chatbot/media
 /venv
 /.idea
